@@ -6,7 +6,7 @@ About Me
 - 💞️ I’m looking to collaborate on some PowerBI projects 👀
 - 📫 How to reach me: mail me (baibhavranjan18@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: The World’S first Webcam watched a Coffee Pot ☕ 
+- ⚡ Fun fact: The world’s first Webcam watched a Coffee Pot ☕ 
 
 <!---
 Baibhav18/Baibhav18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
